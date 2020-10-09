@@ -1,0 +1,15 @@
+# Assessment Results Data Dictionary
+
+## Relevant Assessment result data
+Standard HROS Assessment Result format used
+
+## Requestor and Stakeholders
+Jim Elder (2020-10-09)
+
+## Description of case
+We are seeking is full support for RESTful API (possible GRAPH QL down the road) using JSON while adhering to the xAPI porfile (once the profile is established and published).
+ 
+
+## Purpose 
+Describe data that is currently transferred as assessment results to an ATS or an LMS.  The list of these data attributes is for establishing an hros_assessments_xAPI profile which will be used to transfer assessment results to an LRS.  
+The results can be requested by a customer or an individual for the purpose of maintaining employee, learner, or student records in an LRS. 
